@@ -1,3 +1,5 @@
+# page 241
+
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.3'
@@ -37,6 +39,7 @@ group :test do
 	gem 'win32console', '1.3.0'
 	gem 'guard-spork', '0.3.2'
 	gem 'spork', '0.9.0'
+	gem 'factory_girl_rails', '1.4.0'
 	# system-dependent gems
 end
 
